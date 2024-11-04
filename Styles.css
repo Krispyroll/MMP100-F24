@@ -1,0 +1,79 @@
+h1  {   color: #CE8147;
+        background-color: #3b3b3b;
+        border: 2px solid #000;
+        width:600px;
+        text-align: center;
+        margin: 0 auto;
+        padding: .5em;
+        font-family: "Lugrasimo", cursive;
+        font-weight: 400;
+        font-style: normal; ;
+    }
+
+h2  {   color: #ECDD7B;
+        width:600px;
+        text-align: center;
+        border: 2px solid #000;
+        margin: 0 auto;
+        background-color:#3b3b3b;
+        font-family: "Lugrasimo", cursive;
+        font-weight: 400;
+        font-style: normal;;
+    }
+
+p   {   color: #ECDD7B;
+        width:600px;
+        text-align: center;
+        margin: 1em auto;
+        font-size: 1.5em;
+        font-family: serif;
+    }
+    
+p.Credits   {   font-size: .66em;
+                text-align: left;
+                margin: 0 auto;
+            }
+
+p.Unchoice  {   font-style: italic;
+                font-size: 1.3em;
+                font-family: "Lugrasimo", cursive;
+                font-weight: 400;
+                font-style: normal;
+            }
+li.choices  {   font-size: 1.2em;
+                font-family: "Lugrasimo", cursive;
+                font-weight: 400;
+                font-style: normal;
+            }
+            
+li  {   color: #ECDD7B;
+        width:600px;
+        text-align: center;
+        margin: 1em auto;
+        font-size: 1.5em;
+        border: 1px solid #000;
+        background-color: #3b3b3b;
+        list-style-position: inside;
+    }
+
+img {   display: block;
+        margin: 0 auto;
+    }
+
+a   {   color: #d86464;
+        width:600px;
+        text-align: center;
+        margin: 0 auto;
+        text-decoration: none;
+    }
+a:hover {color:#CDE7BE;
+        }
+
+body{background-color:#35210e;
+}
+
+
+
+
+
+
