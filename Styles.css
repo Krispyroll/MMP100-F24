@@ -1,25 +1,30 @@
 h1  {   color: #CE8147;
-        background-color: #3b3b3b;
-        border: 2px solid #000;
-        width:600px;
+        width:800px;
+        height: 30px;
         text-align: center;
-        margin: 0 auto;
+        margin: 10px auto;
         padding: .5em;
-        font-family: "Lugrasimo", cursive;
-        font-weight: 400;
-        font-style: normal; ;
+        font-family: "Cinzel Decorative", serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 3em;
     }
 
 h2  {   color: #ECDD7B;
         width:600px;
         text-align: center;
-        border: 2px solid #000;
-        margin: 0 auto;
-        background-color:#3b3b3b;
+        margin: 5px auto;
         font-family: "Lugrasimo", cursive;
         font-weight: 400;
-        font-style: normal;;
+        font-style: normal;
+
     }
+
+h2.author   {   font-size: 1em;
+                color: bisque;  
+                margin-top: 50px;
+
+}
 
 p   {   color: #ECDD7B;
         width:600px;
@@ -35,12 +40,14 @@ p.Credits   {   font-size: .66em;
             }
 
 p.Unchoice  {   font-style: italic;
-                font-size: 1.3em;
+                font-size: 1.9em;
                 font-family: "Lugrasimo", cursive;
                 font-weight: 400;
                 font-style: normal;
+                margin-top: 30px;
+                margin-bottom: 30px;
             }
-li.choices  {   font-size: 1.2em;
+li.choices  {   font-size: 1.9em;
                 font-family: "Lugrasimo", cursive;
                 font-weight: 400;
                 font-style: normal;
@@ -51,16 +58,17 @@ li  {   color: #ECDD7B;
         text-align: center;
         margin: 1em auto;
         font-size: 1.5em;
-        border: 1px solid #000;
-        background-color: #3b3b3b;
         list-style-position: inside;
     }
 
 img {   display: block;
         margin: 0 auto;
+        width: 600px;
+        margin-top: 30px;
+        margin-bottom: 10px;
     }
 
-a   {   color: #d86464;
+a   {   color: #e04c4c;
         width:600px;
         text-align: center;
         margin: 0 auto;
